@@ -15,13 +15,13 @@ async function handleRequest(request) {
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a Zee5 Online premium streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Kanna Dhasan">
+    <meta name="copyright" content="This Created by Kanna Dhasan">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://chatecrew.live/swarup/img/favicon.png">
 
-	<title>Avi Patil | ZEE5 Online Player and Downloader !!</title>
+	<title>Kanna Dhasan | ZEE5 Online Player and Downloader !!</title>
 	<link rel="stylesheet" href="https://chatecrew.live/AJ/style.css">
 
 <style>
@@ -33,7 +33,7 @@ body{ background-color:#202020;}
   <p style="color:blue; text-align:center;font-family: 'Corben', cursive;">Use This Pattern -->  <br><br><code style="color:white;">z5.movhdapp.ml/ZEE5_VIDEO_ID</code><br><br>OR<br><br><code style="color:white;">z5.movhdapp.ml/?url=ZEE5_VIDEO_URL</code></p>
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://www.google.com/">© 2021 Kanna Dhasan</a></span>
             </div>
         </footer>
 </body>
